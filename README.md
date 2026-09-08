@@ -17,6 +17,6 @@ Além dos códigos das questões, este README contém os links para os respectiv
 
 | Apresentação | Lista | Questão | Código | Link do vídeo |
 |---|---|---|---|---|
-| 1 | [lista 2 ] | [questão 5 ] | [Abrir código](./Questão_5_lista2.py) | [Assistir ao vídeo](https://drive.google.com/file/d/13Y-CaAzu33_ezYJHO-zDjNnRjkmh1E-6/view?usp=drive_link) |
+| 1 | [lista 2 ] | [questão 5 ] | [Abrir código](./Questão_5_lista_2.py) | [Assistir ao vídeo](https://drive.google.com/file/d/13Y-CaAzu33_ezYJHO-zDjNnRjkmh1E-6/view?usp=drive_link) |
 | 2 | [lista 3 ] | [questão 23 ] | [Abrir código](./questão_23_lista3.py) | [Assistir ao vídeo](https://drive.google.com/file/d/1N--gZRjCRTp0uIo-9rlB4b9qrfkI5NMz/view?usp=drive_link) |
 | 3 | [lista 3 ] | [questão 26 ] | [Abrir código](./Questão_26_lista3.py) | [Assistir ao vídeo](https://drive.google.com/file/d/1AHS-dz15DZAsvkIz3Dk4dojCplAJtH47/view?usp=drive_link) |
