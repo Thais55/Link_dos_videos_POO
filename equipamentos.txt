@@ -1,0 +1,6 @@
+Patrimônio: 001
+Modelo: samsung
+Ano de fabricação: 2023
+Situação: ATIVO
+Setor: secretaria
+------------------------------
